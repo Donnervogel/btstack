@@ -33,5 +33,5 @@
 
 // Enable A2DP
 #define ENABLE_A2DP
-
+#define HCI_ACL_PAYLOAD_SIZE 1024
 #endif // BTSTACK_CONFIG_H
